@@ -58,11 +58,11 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 📊 **Dashboard**
 Comprehensive House Price Analysis
-https://public.tableau.com/views/VisualizingHousingPriceTrends/Dashboard
+https://public.tableau.com/authoring/jalasutramkasulu/Dashboard1#1
 
 📖 **Story**
 Housing Market Trends Story
-https://public.tableau.com/views/VisualizingHousingPriceTrends/Story
+https://public.tableau.com/authoring/jalasutramkasulu/Story1#1
 
 ---
 
@@ -129,7 +129,6 @@ https://public.tableau.com/views/VisualizingHousingPriceTrends/Story
 
 ## 📞 Contact & Connect
 
-📧 **Email:** [jalasutramkasulu09@gmail.com](mailto:jalasutramkasulu09@gmail.com)
-🔗 **LinkedIn:** (Add your LinkedIn profile link here)
+📧 **Email:** [jalasutramkasulu09@gmail.com](mailto:jalasutramkasulu09@gmail.com)
 
 ---
